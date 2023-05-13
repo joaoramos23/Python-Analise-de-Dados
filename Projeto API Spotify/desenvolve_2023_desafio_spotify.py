@@ -17,8 +17,8 @@ def procurar_musica(chave_acesso, musica):
     return resultado
 
 
-client_id = '6892f7c47f4d45e493794c87902a2536'
-client_secret = 'b9b89fe252ee45a1a6e1cd4968ac2e29'
+client_id = 'CLIENTE_ID'
+client_secret = 'CLIENT_SECRET'
 musica = 'beleza'
 chave_acesso = autenticar_api(client_id, client_secret)
 resultado = procurar_musica(chave_acesso, musica)
