@@ -16,7 +16,7 @@ import pyodbc # pip install pyodbc
 import re # problema com aspas, impossibilitando de inserir no banco de dados
 
 
-DRIVER = "{ODBC Driver 17 for SQL Server}"
+DRIVER = "DRIVER-DB"
 SERVER = "NOME_SERVIDOR"
 USER = "USUARIO"
 PASSWORD = "SENHA"

@@ -57,8 +57,8 @@ def main_function():
     put_music_tracks(result, cursor)
 
 
-client_id = '6892f7c47f4d45e493794c87902a2536'
-client_secret = 'b9b89fe252ee45a1a6e1cd4968ac2e29'
+client_id = 'CLIENT-ID'
+client_secret = 'CLIENT-SECRET'
 music = 'beleza'
 
 main_function()
