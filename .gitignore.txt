@@ -1,1 +1,1 @@
-C:\Users\jofin\Desktop\Python\Projeto API Spotify\.cache
+~\Python\Projeto API Spotify\.cache
